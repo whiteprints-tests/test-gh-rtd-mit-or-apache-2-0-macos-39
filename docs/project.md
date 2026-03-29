@@ -6,7 +6,9 @@ SPDX-License-Identifier: MIT OR Apache-2.0
 
 # 🛠️ Codebase Overview
 
-The project is organised as follow.
+The project is hosted on [https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-macos-39.git](https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-macos-39.git).
+
+It is organised as follow.
 
 ## Files and directories
 
